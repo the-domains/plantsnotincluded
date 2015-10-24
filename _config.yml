@@ -1,0 +1,23 @@
+name: PlantsNotIncluded
+favicon: null
+layout_spectrum: 0.7067897964734584
+typography_spectrum: 0.19267397141084075
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.41796025703661144
+  lightness: 0.16172305261716247
+  saturation: 0.4643611703068018
+  rhythmicContrast: 0.9625910753384233
+purpose: []
